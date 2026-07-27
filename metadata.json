@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI – Emergency Protection System",
+  "description": "AI-powered emergency protection system for international travelers in India. Passive cloud tracking, automated AI risk prediction, and embassy & police emergency integration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
